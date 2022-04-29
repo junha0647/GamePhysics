@@ -1,0 +1,10 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  SDL2_rotozoom.c
+C:\Users\user\Documents\GitHub\GamePhysics\SDL2_gfx-1.0.4\SDL2_rotozoom.h(44,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  SDL2_imageFilter.c
+C:\Users\user\Documents\GitHub\GamePhysics\SDL2_gfx-1.0.4\SDL2_imageFilter.c(45,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  SDL2_gfxPrimitives.c
+C:\Users\user\Documents\GitHub\GamePhysics\SDL2_gfx-1.0.4\SDL2_gfxPrimitives.h(38,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  SDL2_framerate.c
+C:\Users\user\Documents\GitHub\GamePhysics\SDL2_gfx-1.0.4\SDL2_framerate.h(40,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  코드를 생성하고 있습니다...
