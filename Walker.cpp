@@ -25,3 +25,5 @@ void Walker::draw(SDL_Renderer* renderer)
   
   m_vehicle->show(renderer);
 }
+
+//2022.04.29 Git - Replit 연동하기
